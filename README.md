@@ -1,3 +1,7 @@
+
+
+
+
 # Movie Memory (Variant B: Frontend/API-Focused)
 
 Sign in with Google, tell the app your favorite movie, and get fun facts about it from OpenAI.
